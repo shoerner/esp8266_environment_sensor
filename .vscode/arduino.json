@@ -1,0 +1,7 @@
+{
+    "board": "esp8266:esp8266:huzzah",
+    "configuration": "xtal=80,vt=flash,exception=legacy,ssl=all,eesz=4M3M,ip=lm2f,dbg=Disabled,lvl=SSLTLS_MEMHTTP_CLIENTHTTP_SERVERCOREWIFIHTTP_UPDATEUPDATEROTAOOMMDNS,wipe=none,baud=512000",
+    "port": "COM6",
+    "programmer": "AVRISP mkII",
+    "sketch": "main.ino"
+}
